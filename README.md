@@ -25,29 +25,7 @@ Tailwind CSS: For a modern, responsive, and utility-first styling framework.
 JavaScript (Vanilla JS): For all interactive elements, navigation, data handling, and dynamic content updates.
 
 Chart.js: For rendering interactive and responsive data visualizations (e.g., development timelines).
-
-Setup and Usage
-This is a single-page HTML application, making it extremely easy to set up and run.
-
-Local Setup
-Save the file: Copy the entire content of index.html from this repository.
-
-Create a file: Paste the copied content into a new text file.
-
-Name and save: Save the file as index.html on your local machine.
-
-Open in browser: Simply open the index.html file in your preferred web browser.
-
-Hosting on GitHub Pages
-This project is ideally suited for static site hosting platforms like GitHub Pages.
-
-Create a GitHub Repository: Create a new public repository on GitHub (e.g., ambulance-training-plan).
-
-Upload index.html: Upload the index.html file directly to the root of your main (or master) branch.
-
-Enable GitHub Pages: Go to your repository's "Settings" -> "Pages" and select your main branch as the source, choosing the / (root) folder.
-
-Access your site: GitHub Pages will build and deploy your site, making it accessible at https://yourusername.github.io/your-repository-name/.
+.
 
 Contributing
 While this repository primarily serves as a project plan visualization, contributions to improve the plan's clarity, interactivity, or additional features for the SPA are welcome. Please feel free to open issues or submit pull requests.
